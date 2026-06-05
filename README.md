@@ -61,7 +61,6 @@ The notebook uses Kaggle paths by default. Update `BASE_DIR` and `SAVE_DIR` in *
 ```
 /kaggle/input/datasets/ozguraslank/brain-stroke-ct-dataset/Brain_Stroke_CT_Dataset/  ← dataset input
 /kaggle/working/dataset_flat/       ← auto-created flat symlink directory
-/kaggle/working/dataset_denoised/   ← created only if Cell 2b_2 (DICOM denoising) is run
 /kaggle/working/                    ← all outputs (models, CSVs, plots)
 ```
 
